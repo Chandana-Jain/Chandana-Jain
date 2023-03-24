@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Cloud Computing Project </b>
-  - [Web - Chat Application]([https://github.com/Chandana-Jain/](https://bitbucket.org/chandana_jain/cca-lnuc01/))
+  - [Web - Chat Application](https://bitbucket.org/chandana_jain/cca-lnuc01/)
 - <b>Database Management System Project</b>
   - [Hospital Management System](https://github.com/Chandana-Jain/)
 - <b>Android Project</b>
