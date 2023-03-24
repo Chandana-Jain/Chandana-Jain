@@ -4,8 +4,6 @@
 
 - <b>Cloud Computing Project </b>
   - [Web - Chat Application](https://bitbucket.org/chandana_jain/cca-lnuc01/)
-- <b>Database Management System Project</b>
-  - [Hospital Management System](https://github.com/Chandana-Jain/)
 - <b>Android Project</b>
   - [Flyers Guide - Built an app of University of Dayton Campus Guide](https://github.com/Chandana-Jain/FlyersGuide)
   
