@@ -7,7 +7,7 @@
 - <b>Database Management System Project</b>
   - [Hospital Management System](https://github.com/Chandana-Jain/)
 - <b>Android Project</b>
-  - [Flyers Guide - Built an app of University of Dayton Campus Guide](https://github.com/Chandana-Jain/)
+  - [Flyers Guide - Built an app of University of Dayton Campus Guide](https://github.com/Chandana-Jain/FlyersGuide)
   
 <h2>Certifications</h2>
 
